@@ -1,6 +1,8 @@
 import json
 from datetime import datetime, timedelta
 
+# Example function on one way to work with the JSON API, events also include their duration, that way it is possible to determine if an event is currently active.
+
 def main():
     # 1) Open your JSON file
     with open("event_api.json", "r", encoding="utf-8") as f:
@@ -34,8 +36,8 @@ def main():
     # Sort by spawn_time ascending
     upcoming_spawns.sort(key=lambda x: x[0])
 
-    # 4) Take the next 2
-    next_two = upcoming_spawns[:20]
+    # 4) Take the next 5
+    next_two = upcoming_spawns[:5] # Change this number to display more.
 
     print("--- Next 2 boss spawns ---")
     for i, (dt, boss_name, waypoint) in enumerate(next_two, start=1):
