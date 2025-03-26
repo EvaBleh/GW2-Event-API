@@ -35,7 +35,7 @@ def main():
     upcoming_spawns.sort(key=lambda x: x[0])
 
     # 4) Take the next 2
-    next_two = upcoming_spawns[:2]
+    next_two = upcoming_spawns[:20]
 
     print("--- Next 2 boss spawns ---")
     for i, (dt, boss_name, waypoint) in enumerate(next_two, start=1):
