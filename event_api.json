@@ -463,7 +463,23 @@
             "map": "Bava Nisos"
         }
     ],
-
+    
+    "voe": [
+        {
+            "name":"Hammerhart Rumble!",
+            "waypoint":"[&BJEPAAA=]",
+            "times_utc": ["0:40","2:40","4:40","6:40","8:40","10:40","12:40","14:40","16:40","18:40","20:40","22:40"],
+            "duration": "0:20",
+            "map": "Shipwreck Strand"
+        },
+        {
+            "name":"Secrets of the Weald",
+            "waypoint":"[&BJ4PAAA=]",
+            "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
+            "duration": "0:35",
+            "map": "Starlit Weald"
+        }
+    ],
     "daycycles": [
         
         {
