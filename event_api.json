@@ -454,7 +454,44 @@
           "times_utc": ["0:00","3:00","6:00","9:00","12:00","15:00","18:00","21:00"],
           "duration": "0:10",
           "map": "Mount Balrior"
+        },
+        {
+          "name": "A Titanic Voyage",
+          "waypoint": "[&BGEPAAA=]",
+          "times_utc":["1:20","3:20","5:20","7:20","9:20","11:20","13:20","15:20","17:20","19:20","21:20","23:20"],
+          "duration": "0:25",
+          "map": "Bava Nisos"
         }
+    ],
+    "VOE": [
+      {
+        "name": "Hammerhart Rumble!",
+        "waypoint": "[&BJEPAAA=]",
+        "times_utc": ["00:40","2:40","4:40","6:40","8:40","10:40","12:40","14:40","16:40","18:40","20:40","22:40"],
+        "duration": "0:20",
+        "map": "Shipwreck Strand"
+      },      
+      {
+        "name": "Secrets of the Weald",
+        "waypoint": "[&BJ4PAAA=]",
+        "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
+        "duration": "0:35",
+        "map": "Starlit Weald"
+      },      
+      {
+        "name": "Shackles of the Ancients",
+        "waypoint": "[&BPwPAAA=]",
+        "times_utc": ["1:15","3:15","5:15","7:15","9:15","11:15","13:15","15:15","17:15","19:15","21:15","23:15"],
+        "duration": "0:25",
+        "map": "Eternity's Garden"
+      },      
+      {
+        "name": "Depths of Cruelty",
+        "waypoint": "[&BDYQAAA=]",
+        "times_utc":["2:00","5:00","8:00","11:00","14:00","17:00","20:00","23:00"],
+        "duration":"0:30",
+        "map":"Leyspring Hollows"
+      }
     ],
 
     "daycycles": [
