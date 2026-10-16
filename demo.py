@@ -9,7 +9,7 @@ def main():
         data = json.load(f)
 
     # 2) Use the data exactly as before
-    bosses = data["bosses"]
+    bosses = data["bosses"] # <- Key for what data is pulled, in this case "bosses" goes through all the world bosses.
 
     now_utc = datetime.utcnow()
     print("Current UTC time:", now_utc.strftime("%H:%M"), "\n")
