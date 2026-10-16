@@ -1,119 +1,119 @@
 {
     "bosses": [
       {
-        "name": "Admiral Taidha Covington",
-        "waypoint": "[&BKgBAAA=]",
-        "times_utc": ["00:00", "03:00", "06:00", "09:00", "12:00", "15:00", "18:00", "21:00"],
-        "duration": "0:15",
-        "map": "Bloodtide Coast"
+          "name": "Admiral Taidha Covington",
+          "waypoint": "[&BKgBAAA=]",
+          "times_utc": ["00:00", "03:00", "06:00", "09:00", "12:00", "15:00", "18:00", "21:00"],
+          "duration": "0:15",
+          "map": "Bloodtide Coast"
       },
       {
-        "name": "Claw of Jormag",
-        "waypoint": "[&BHoCAAA=]",
-        "times_utc": ["02:30", "05:30", "08:30", "11:30", "14:30", "17:30", "20:30", "23:30"],
-        "duration": "0:15",
-        "map": "Frostgorge Sound"
+          "name": "Claw of Jormag",
+          "waypoint": "[&BHoCAAA=]",
+          "times_utc": ["02:30", "05:30", "08:30", "11:30", "14:30", "17:30", "20:30", "23:30"],
+          "duration": "0:15",
+          "map": "Frostgorge Sound"
       },
       {
-        "name": "Fire Elemental",
-        "waypoint": "[&BEcAAAA=]",
-        "times_utc": ["00:45", "02:45", "04:45", "06:45", "08:45", "10:45", "12:45", "14:45", "16:45", "18:45", "20:45", "22:45"],
-        "duration": "0:15",
-        "map": "Metrica Province"
+          "name": "Fire Elemental",
+          "waypoint": "[&BEcAAAA=]",
+          "times_utc": ["00:45", "02:45", "04:45", "06:45", "08:45", "10:45", "12:45", "14:45", "16:45", "18:45", "20:45", "22:45"],
+          "duration": "0:15",
+          "map": "Metrica Province"
       },
       {
-        "name": "Golem Mark II",
-        "waypoint": "[&BNQCAAA=]",
-        "times_utc": ["02:00", "05:00", "08:00", "11:00", "14:00", "17:00", "20:00", "23:00"],
-        "duration": "0:15",
-        "map": "Mount Maelstrom"
+          "name": "Golem Mark II",
+          "waypoint": "[&BNQCAAA=]",
+          "times_utc": ["02:00", "05:00", "08:00", "11:00", "14:00", "17:00", "20:00", "23:00"],
+          "duration": "0:15",
+          "map": "Mount Maelstrom"
       },
       {
-        "name": "Great Jungle Wurm",
-        "waypoint": "[&BEEFAAA=]",
-        "times_utc": ["01:15", "03:15", "05:15", "07:15", "09:15", "11:15", "13:15", "15:15", "17:15", "19:15", "21:15", "23:15"],
-        "duration": "0:15",
-        "map": "Caledon Forest"
+          "name": "Great Jungle Wurm",
+          "waypoint": "[&BEEFAAA=]",
+          "times_utc": ["01:15", "03:15", "05:15", "07:15", "09:15", "11:15", "13:15", "15:15", "17:15", "19:15", "21:15", "23:15"],
+          "duration": "0:15",
+          "map": "Caledon Forest"
       },
       {
-        "name": "Karka Queen",
-        "waypoint": "[&BNUGAAA=]",
-        "times_utc": ["02:00", "06:00", "10:30", "15:00", "18:00", "23:00"],
-        "duration": "0:15",
-        "map": "Southsun Cove"
+          "name": "Karka Queen",
+          "waypoint": "[&BNUGAAA=]",
+          "times_utc": ["02:00", "06:00", "10:30", "15:00", "18:00", "23:00"],
+          "duration": "0:15",
+          "map": "Southsun Cove"
       },
       {
-        "name": "Megadestroyer",
-        "waypoint": "[&BM0CAAA=]",
-        "times_utc": ["00:30", "03:30", "06:30", "09:30", "12:30", "15:30", "18:30", "21:30"],
-        "duration": "0:15",
-        "map": "Mount Maelstrom"
+          "name": "Megadestroyer",
+          "waypoint": "[&BM0CAAA=]",
+          "times_utc": ["00:30", "03:30", "06:30", "09:30", "12:30", "15:30", "18:30", "21:30"],
+          "duration": "0:15",
+          "map": "Mount Maelstrom"
       },
       {
-        "name": "Modniir Ulgoth",
-        "waypoint": "[&BLAAAAA=]",
-        "times_utc": ["01:30", "04:30", "07:30", "10:30", "13:30", "16:30", "19:30", "22:30"],
-        "duration": "0:15",
-        "map": "Harathi Hinterlands"
+          "name": "Modniir Ulgoth",
+          "waypoint": "[&BLAAAAA=]",
+          "times_utc": ["01:30", "04:30", "07:30", "10:30", "13:30", "16:30", "19:30", "22:30"],
+          "duration": "0:15",
+          "map": "Harathi Hinterlands"
       },
       {
-        "name": "Shadow Behemoth",
-        "waypoint": "[&BPcAAAA=]",
-        "times_utc": ["01:45", "03:45", "05:45", "07:45", "09:45", "11:45", "13:45", "15:45", "17:45", "19:45", "21:45", "23:45"],
-        "duration": "0:15",
-        "map": "Queensdale"
+          "name": "Shadow Behemoth",
+          "waypoint": "[&BPcAAAA=]",
+          "times_utc": ["01:45", "03:45", "05:45", "07:45", "09:45", "11:45", "13:45", "15:45", "17:45", "19:45", "21:45", "23:45"],
+          "duration": "0:15",
+          "map": "Queensdale"
       },
       {
-        "name": "Svanir Shaman Chief",
-        "waypoint": "[&BMIDAAA=]",
-        "times_utc": ["00:15", "02:15", "04:15", "06:15", "08:15", "10:15", "12:15", "14:15", "16:15", "18:15", "20:15", "22:15"],
-        "duration": "0:15",
-        "map": "Wayfarer Foothills"
+          "name": "Svanir Shaman Chief",
+          "waypoint": "[&BMIDAAA=]",
+          "times_utc": ["00:15", "02:15", "04:15", "06:15", "08:15", "10:15", "12:15", "14:15", "16:15", "18:15", "20:15", "22:15"],
+          "duration": "0:15",
+          "map": "Wayfarer Foothills"
       },
       {
-        "name": "Tequatl the Sunless",
-        "waypoint": "[&BNABAAA=]",
-        "times_utc": ["00:00", "03:00", "07:00", "11:30", "16:00", "19:00"],
-        "duration": "0:15",
-        "map": "Sparkfly Fen"
+          "name": "Tequatl the Sunless",
+          "waypoint": "[&BNABAAA=]",
+          "times_utc": ["00:00", "03:00", "07:00", "11:30", "16:00", "19:00"],
+          "duration": "0:15",
+          "map": "Sparkfly Fen"
       },
       {
-        "name": "The Shatterer",
-        "waypoint": "[&BE4DAAA=]",
-        "times_utc": ["01:00", "04:00", "07:00", "10:00", "13:00", "16:00", "19:00", "22:00"],
-        "duration": "0:15",
-        "map": "Blazeridge Steppes"
+          "name": "The Shatterer",
+          "waypoint": "[&BE4DAAA=]",
+          "times_utc": ["01:00", "04:00", "07:00", "10:00", "13:00", "16:00", "19:00", "22:00"],
+          "duration": "0:15",
+          "map": "Blazeridge Steppes"
       },
       {
-        "name": "Triple Trouble",
-        "waypoint": "[&BKoBAAA=]",
-        "times_utc": ["1:00","4:00","8:00","12:30","17:00","20:00"],
-        "duration": "0:30",
-        "map": "Bloodtide coast"
+          "name": "Triple Trouble",
+          "waypoint": "[&BKoBAAA=]",
+          "times_utc": ["1:00","4:00","8:00","12:30","17:00","20:00"],
+          "duration": "0:30",
+          "map": "Bloodtide coast"
       }
     ],
 
     "leyline": [
         {
-         "name": "Ley-Line Anomaly (Timberline Falls)",
-         "waypoint:": "[&BEwCAAA=]",
-         "times_utc": ["00:20", "6:20", "12:20", "18:20"],
-         "duration": "0:20",
-         "map": "Timberline Falls"
+            "name": "Ley-Line Anomaly (Timberline Falls)",
+            "waypoint:": "[&BEwCAAA=]",
+            "times_utc": ["00:20", "6:20", "12:20", "18:20"],
+            "duration": "0:20",
+            "map": "Timberline Falls"
         },
         {
-         "name": "Ley-Line Anomaly (Iron Marches)",
-         "waypoint": "[&BOcBAAA=]",
-         "times_utc": ["2:20","8:20","14:20","20:20"],
-         "duration": "0:20",
-         "map": "Iron Marches"
+            "name": "Ley-Line Anomaly (Iron Marches)",
+            "waypoint": "[&BOcBAAA=]",
+            "times_utc": ["2:20","8:20","14:20","20:20"],
+            "duration": "0:20",
+            "map": "Iron Marches"
         },
         {
-         "name": "Ley-Line Anomaly (Gendarran Fields)",
-         "waypoint": "[&BOQAAAA=]",
-         "times_utc": ["4:20","10:20","16:20","22:20"],
-         "duration": "0:20",
-         "map": "Gendarran Fields"
+            "name": "Ley-Line Anomaly (Gendarran Fields)",
+            "waypoint": "[&BOQAAAA=]",
+            "times_utc": ["4:20","10:20","16:20","22:20"],
+            "duration": "0:20",
+            "map": "Gendarran Fields"
         }
     ],
 
@@ -307,251 +307,334 @@
 
     "lws5": [
         {
-          "name": "Effigy",
-          "waypoint": "[&BA4MAAA=]",
-          "times_utc": ["0:10","2:10","4:10","6:10","8:10","10:10","12:10","14:10","16:10","18:10","20:10","22:10"],
-          "duration": "0:15",
-          "map": "Grothmar Valley"
+            "name": "Effigy",
+            "waypoint": "[&BA4MAAA=]",
+            "times_utc": ["0:10","2:10","4:10","6:10","8:10","10:10","12:10","14:10","16:10","18:10","20:10","22:10"],
+            "duration": "0:15",
+            "map": "Grothmar Valley"
         },
         {
-          "name": "Doomlore Shrine",
-          "waypoint": "[&BA4MAAA=]",
-          "times_utc": ["0:38","2:38","4:38","6:38","8:38","10:38","12:38","14:38","16:38","18:38","20:38","22:38"],
-          "duration": "0:22",
-          "map": "Grothmar Valley"
+            "name": "Doomlore Shrine",
+            "waypoint": "[&BA4MAAA=]",
+            "times_utc": ["0:38","2:38","4:38","6:38","8:38","10:38","12:38","14:38","16:38","18:38","20:38","22:38"],
+            "duration": "0:22",
+            "map": "Grothmar Valley"
         },
         {
-          "name": "Ooze Pits",
-          "waypoint": "[&BPgLAAA=]",
-          "times_utc": ["1:05","3:05","5:05","7:05","9:05","11:05","13:05","15:05","17:05","19:05","21:05","23:05"],
-          "duration": "0:20",
-          "map": "Grothmar Valley"
+            "name": "Ooze Pits",
+            "waypoint": "[&BPgLAAA=]",
+            "times_utc": ["1:05","3:05","5:05","7:05","9:05","11:05","13:05","15:05","17:05","19:05","21:05","23:05"],
+            "duration": "0:20",
+            "map": "Grothmar Valley"
         },
         {
-          "name": "Metal Concert",
-          "waypoint": "[&BPgLAAA=]",
-          "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
-          "duration": "0:15",
-          "map": "Grothmar Valley"
+            "name": "Metal Concert",
+            "waypoint": "[&BPgLAAA=]",
+            "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
+            "duration": "0:15",
+            "map": "Grothmar Valley"
         },        
         {
-          "name": "Drakkar and Spirits of the Wild",
-          "waypoint": "[&BDkMAAA=]",
-          "times_utc": ["1:05","3:05","5:05","7:05","9:05","11:05","13:05","15:05","17:05","19:05","21:05","23:05"],
-          "duration": "0:35",
-          "map": "Bjora Marches"
+            "name": "Drakkar and Spirits of the Wild",
+            "waypoint": "[&BDkMAAA=]",
+            "times_utc": ["1:05","3:05","5:05","7:05","9:05","11:05","13:05","15:05","17:05","19:05","21:05","23:05"],
+            "duration": "0:35",
+            "map": "Bjora Marches"
         },        
         {
-          "name": "Storms of Winter",
-          "waypoint": "[&BCcMAAA=]",
-          "times_utc": ["1:45","3:45","5:45","7:45","9:45","11:45","13:45","15:45","17:45","19:45","21:45","23:45"],
-          "duration": "0:20",
-          "map": "Bjora Marches"
+            "name": "Storms of Winter",
+            "waypoint": "[&BCcMAAA=]",
+            "times_utc": ["1:45","3:45","5:45","7:45","9:45","11:45","13:45","15:45","17:45","19:45","21:45","23:45"],
+            "duration": "0:20",
+            "map": "Bjora Marches"
         },
         {
-          "name": "Dragonstorm (Public)",
-          "waypoint": "[&BAkMAAA=]",
-          "times_utc": ["1:00","3:00","5:00","7:00","9:00","11:00","13:00","15:00","17:00","19:00","21:00","23:00"],
-          "duration": "0:20",
-          "map": "Dragonstorm"
+            "name": "Dragonstorm (Public)",
+            "waypoint": "[&BAkMAAA=]",
+            "times_utc": ["1:00","3:00","5:00","7:00","9:00","11:00","13:00","15:00","17:00","19:00","21:00","23:00"],
+            "duration": "0:20",
+            "map": "Dragonstorm"
         }
     ],
 
     "eod": [
         {
-          "name": "Aetherblade Assault",
-          "waypoint": "[&BGUNAAA=]",
-          "times_utc": ["1:30","3:30","5:30","7:30","9:30","11:30","13:30","15:30","17:30","19:30","21:30","23:30"],
-          "duration": "0:30",
-          "map": "Seitung Province"
+            "name": "Aetherblade Assault",
+            "waypoint": "[&BGUNAAA=]",
+            "times_utc": ["1:30","3:30","5:30","7:30","9:30","11:30","13:30","15:30","17:30","19:30","21:30","23:30"],
+            "duration": "0:30",
+            "map": "Seitung Province"
         },        
         {
-          "name": "Kaineng Blackout",
-          "waypoint": "[&BBkNAAA=]",
-          "times_utc": ["0:00","2:00","4:00","6:00","8:00","10:00","12:00","14:00","16:00","18:00","20:00","22:00"],
-          "duration": "0:40",
-          "map": "New Kaineng City"
+            "name": "Kaineng Blackout",
+            "waypoint": "[&BBkNAAA=]",
+            "times_utc": ["0:00","2:00","4:00","6:00","8:00","10:00","12:00","14:00","16:00","18:00","20:00","22:00"],
+            "duration": "0:40",
+            "map": "New Kaineng City"
         },        
         {
-          "name": "Gang War",
-          "waypoint": "[&BMwMAAA=]",
-          "times_utc": ["0:30","2:30","4:30","6:30","8:30","10:30","12:30","14:30","16:30","18:30","20:30","22:30"],
-          "duration": "0:35",
-          "map": "The Echovald Wilds"
+            "name": "Gang War",
+            "waypoint": "[&BMwMAAA=]",
+            "times_utc": ["0:30","2:30","4:30","6:30","8:30","10:30","12:30","14:30","16:30","18:30","20:30","22:30"],
+            "duration": "0:35",
+            "map": "The Echovald Wilds"
         },        
         {
-          "name": "Aspenwood",
-          "waypoint": "[&BPkMAAA=]",
-          "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
-          "duration": "0:20",
-          "map": "The Echovald Wilds"
+            "name": "Aspenwood",
+            "waypoint": "[&BPkMAAA=]",
+            "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
+            "duration": "0:20",
+            "map": "The Echovald Wilds"
         },        
         {
-          "name": "Jade Maw",
-          "waypoint": "[&BKIMAAA=]",
-          "times_utc": ["0:05","0:45","2:05","2:45","4:05","4:45","6:05","6:45","8:05","8:45","10:05","10:45","12:05","12:45","14:05","14:45","16:05","16:45","18:05","18:45","20:05","20:45","22:05","22:45"],
-          "duration": "0:08",
-          "map": "Dragon's End"
+            "name": "Jade Maw",
+            "waypoint": "[&BKIMAAA=]",
+            "times_utc": ["0:05","0:45","2:05","2:45","4:05","4:45","6:05","6:45","8:05","8:45","10:05","10:45","12:05","12:45","14:05","14:45","16:05","16:45","18:05","18:45","20:05","20:45","22:05","22:45"],
+            "duration": "0:08",
+            "map": "Dragon's End"
         },        
         {
-          "name": "The Battle for the Jade Sea",
-          "waypoint": "[&BKIMAAA=]",
-          "times_utc": ["1:00","3:00","5:00","7:00","9:00","11:00","13:00","15:00","17:00","19:00","21:00","23:00"],
-          "duration": "1:00",
-          "map": "Dragon's End"
+            "name": "The Battle for the Jade Sea",
+            "waypoint": "[&BKIMAAA=]",
+            "times_utc": ["1:00","3:00","5:00","7:00","9:00","11:00","13:00","15:00","17:00","19:00","21:00","23:00"],
+            "duration": "1:00",
+            "map": "Dragon's End"
         }        
     ],
 
     "soto": [  
         {
-          "name": "Unlocking the Wizard's Tower",
-          "waypoint": "[&BL4NAAA=]",
-          "times_utc": ["1:00","3:00","5:00","7:00","9:00","11:00","13:00","15:00","17:00","19:00","21:00","23:00"],
-          "duration": "0:25",
-          "map": "Skywatch Archipelago"
+            "name": "Unlocking the Wizard's Tower",
+            "waypoint": "[&BL4NAAA=]",
+            "times_utc": ["1:00","3:00","5:00","7:00","9:00","11:00","13:00","15:00","17:00","19:00","21:00","23:00"],
+            "duration": "0:25",
+            "map": "Skywatch Archipelago"
         },        
         {
-          "name": "Target Practice",
-          "waypoint": "[&BB8OAAA=]",
-          "times_utc": ["1:00","3:00","5:00","7:00","9:00","11:00","13:00","15:00","17:00","19:00","21:00","23:00"],
-          "duration": "0:55",
-          "map": "Wizard's Tower"
+            "name": "Target Practice",
+            "waypoint": "[&BB8OAAA=]",
+            "times_utc": ["1:00","3:00","5:00","7:00","9:00","11:00","13:00","15:00","17:00","19:00","21:00","23:00"],
+            "duration": "0:55",
+            "map": "Wizard's Tower"
         },        
         {
-          "name": "Fly by Night",
-          "waypoint": "[&BB8OAAA=]",
-          "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
-          "duration": "0:25",
-          "map": "Wizard's Tower"
+            "name": "Fly by Night",
+            "waypoint": "[&BB8OAAA=]",
+            "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
+            "duration": "0:25",
+            "map": "Wizard's Tower"
         },        
         {
-          "name": "Defense of Amnytas",
-          "waypoint": "[&BDQOAAA=]",
-          "times_utc": ["0:00","2:00","4:00","6:00","8:00","10:00","12:00","14:00","16:00","18:00","20:00","22:00"],
-          "duration": "0:25",
-          "map": "Amnytas"
+            "name": "Defense of Amnytas",
+            "waypoint": "[&BDQOAAA=]",
+            "times_utc": ["0:00","2:00","4:00","6:00","8:00","10:00","12:00","14:00","16:00","18:00","20:00","22:00"],
+            "duration": "0:25",
+            "map": "Amnytas"
         },        
         {
-          "name": "Convergence: Outer Nayos",
-          "waypoint": "[&BB8OAAA=]",
-          "times_utc": ["1:30","4:30","7:30","10:30","13:30","16:30","19:30","22:30"],
-          "duration": "0:10",
-          "map": "Wizard's Tower"
+            "name": "Convergence: Outer Nayos",
+            "waypoint": "[&BB8OAAA=]",
+            "times_utc": ["1:30","4:30","7:30","10:30","13:30","16:30","19:30","22:30"],
+            "duration": "0:10",
+            "map": "Wizard's Tower"
         }
     ],
 
     "janthir": [
         {
-          "name": "Of Mists and Monsters",
-          "waypoint": "[&BCoPAAA=]",
-          "times_utc": ["0:30","2:30","4:30","6:30","8:30","10:30","12:30","14:30","16:30","18:30","20:30","22:30"],
-          "duration": "0:25",
-          "map": "Janthir Syntri"
+            "name": "Of Mists and Monsters",
+            "waypoint": "[&BCoPAAA=]",
+            "times_utc": ["0:30","2:30","4:30","6:30","8:30","10:30","12:30","14:30","16:30","18:30","20:30","22:30"],
+            "duration": "0:25",
+            "map": "Janthir Syntri"
         },        
         {
-          "name": "Convergence: Mount Balrior",
-          "waypoint": "[&BCQPAAA=]",
-          "times_utc": ["0:00","3:00","6:00","9:00","12:00","15:00","18:00","21:00"],
-          "duration": "0:10",
-          "map": "Mount Balrior"
+            "name": "Convergence: Mount Balrior",
+            "waypoint": "[&BCQPAAA=]",
+            "times_utc": ["0:00","3:00","6:00","9:00","12:00","15:00","18:00","21:00"],
+            "duration": "0:10",
+            "map": "Mount Balrior"
         },
         {
-          "name": "A Titanic Voyage",
-          "waypoint": "[&BGEPAAA=]",
-          "times_utc":["1:20","3:20","5:20","7:20","9:20","11:20","13:20","15:20","17:20","19:20","21:20","23:20"],
-          "duration": "0:25",
-          "map": "Bava Nisos"
+            "name": "A Titanic Voyage",
+            "waypoint": "[&BGEPAAA=]",
+            "times_utc":["1:20","3:20","5:20","7:20","9:20","11:20","13:20","15:20","17:20","19:20","21:20","23:20"],
+            "duration": "0:25",
+            "map": "Bava Nisos"
         }
     ],
     "VOE": [
-      {
-        "name": "Hammerhart Rumble!",
-        "waypoint": "[&BJEPAAA=]",
-        "times_utc": ["00:40","2:40","4:40","6:40","8:40","10:40","12:40","14:40","16:40","18:40","20:40","22:40"],
-        "duration": "0:20",
-        "map": "Shipwreck Strand"
-      },      
-      {
-        "name": "Secrets of the Weald",
-        "waypoint": "[&BJ4PAAA=]",
-        "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
-        "duration": "0:35",
-        "map": "Starlit Weald"
-      },      
-      {
-        "name": "Shackles of the Ancients",
-        "waypoint": "[&BPwPAAA=]",
-        "times_utc": ["1:15","3:15","5:15","7:15","9:15","11:15","13:15","15:15","17:15","19:15","21:15","23:15"],
-        "duration": "0:25",
-        "map": "Eternity's Garden"
-      },      
-      {
-        "name": "Depths of Cruelty",
-        "waypoint": "[&BDYQAAA=]",
-        "times_utc":["2:00","5:00","8:00","11:00","14:00","17:00","20:00","23:00"],
-        "duration":"0:30",
-        "map":"Leyspring Hollows"
-      }
+        {
+            "name": "Hammerhart Rumble!",
+            "waypoint": "[&BJEPAAA=]",
+            "times_utc": ["00:40","2:40","4:40","6:40","8:40","10:40","12:40","14:40","16:40","18:40","20:40","22:40"],
+            "duration": "0:20",
+            "map": "Shipwreck Strand"
+        },      
+        {
+            "name": "Secrets of the Weald",
+            "waypoint": "[&BJ4PAAA=]",
+            "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
+            "duration": "0:35",
+            "map": "Starlit Weald"
+        },      
+        {
+            "name": "Shackles of the Ancients",
+            "waypoint": "[&BPwPAAA=]",
+            "times_utc": ["1:15","3:15","5:15","7:15","9:15","11:15","13:15","15:15","17:15","19:15","21:15","23:15"],
+            "duration": "0:25",
+            "map": "Eternity's Garden"
+        },      
+        {
+            "name": "Depths of Cruelty",
+            "waypoint": "[&BDYQAAA=]",
+            "times_utc":["2:00","5:00","8:00","11:00","14:00","17:00","20:00","23:00"],
+            "duration":"0:30",
+            "map":"Leyspring Hollows"
+        }
+    ],
+    "Halloween": [
+        {
+            "name": "Mad king Says",
+            "waypoint": "[&BBAEAAA=]",
+            "times_utc": ["0:00","2:00","4:00","6:00","8:00","10:00","12:00","14:00","16:00","18:00","20:00","22:00"],
+            "duration":"0:10",
+            "map": "Lion's Arch"
+        }
+      ],
+    "Dragon Bash": [
+        {
+            "name": "Hologram Stampede (Wayfarer Foothills)",
+            "waypoint": "[&BH0BAAA=]",
+            "times_utc": ["0:00","1:00","2:00","3:00","4:00","5:00","6:00","7:00","8:00","9:00","10:00","11:00","12:00","13:00","14:00","15:00","16:00","17:00","18:00","19:00","20:00","21:00","22:00","23:00"],
+            "duration": "0:05",
+            "map": "Wayfarer Foothills"
+        },
+              {
+            "name": "Hologram Stampede (Dredgehaunt cliffs)",
+            "waypoint": "[&BGMCAAA=]",
+            "times_utc": ["0:15","1:15","2:15","3:15","4:15","5:15","6:15","7:15","8:15","9:15","10:15","11:15","12:15","13:15","14:15","15:15","16:15","17:15","18:15","19:15","20:15","21:15","22:15","23:15"],
+            "duration": "0:05",
+            "map": "Dredgehaunt cliffs"
+        },
+              {
+            "name": "Hologram Stampede (Lornar's Pass)",
+            "waypoint": "[&BJkBAAA=]",
+            "times_utc": ["0:30","1:30","2:30","3:30","4:30","5:30","6:30","7:30","8:30","9:30","10:30","11:30","12:30","13:30","14:30","15:30","16:30","17:30","18:30","19:30","20:30","21:30","22:30","23:30"],
+            "duration": "0:05",
+            "map": "Lornar's Pass"
+        },
+              {
+            "name": "Hologram Stampede (Snowden Drifts)",
+            "waypoint": "[&BL4AAAA=]",
+            "times_utc": ["0:45","1:45","2:45","3:45","4:45","5:45","6:45","7:45","8:45","9:45","10:45","11:45","12:45","13:45","14:45","15:45","16:45","17:45","18:45","19:45","20:45","21:45","22:45","23:45"],
+            "duration": "0:05",
+            "map": "Snowden Drifts"
+        }
+    ],
+    "Festival of the Four Winds": [
+        {
+            "name": "Skiff Race",
+            "waypoint": "[&BBwHAAA=]",
+            "times_utc": ["0:00","2:00","4:00","6:00","8:00","10:00","12:00","14:00","16:00","18:00","20:00","22:00"],
+            "duration": "0:10",
+            "map": "Labyrinthe Cliffs"
+        },      
+        {
+            "name": "Launch kite baskets full of water balloons",
+            "waypoint": "[&BBwHAAA=]",
+            "times_utc": ["0:15","2:15","4:15","6:15","8:15","10:15","12:15","14:15","16:15","18:15","20:15","22:15"],
+            "duration": "0:10",
+            "map": "Labyrinthe Cliffs"
+        },      
+        {
+            "name": "Treasure Hunt",
+            "waypoint": "[&BBwHAAA=]",
+            "times_utc": ["0:30","2:30","4:30","6:30","8:30","10:30","12:30","14:30","16:30","18:30","20:30","22:30"],
+            "duration": "0:30",
+            "map": "Labyrinthe Cliffs"
+        },      
+        {
+            "name": "Skimmer Race",
+            "waypoint": "[&BBwHAAA=]",
+            "times_utc": ["01:15", "03:15", "05:15", "07:15", "09:15", "11:15", "13:15", "15:15", "17:15", "19:15", "21:15", "23:15"],
+            "duration": "0:10",
+            "map": "Labyrinthe Cliffs"
+        },      
+        {
+            "name": "Fishing Tournament",
+            "waypoint": "[&BBwHAAA=]",
+            "times_utc": ["1:30","3:30","5:30","7:30","9:30","11:30","13:30","15:30","17:30","19:30","21:30","23:30"],
+            "duration": "0:10",
+            "map": "Labyrinthe Cliffs"
+        },      
+        {
+            "name": "Dolyak Race",
+            "waypoint": "[&BBwHAAA=]",
+            "times_utc": ["1:45","3:45","5:45","7:45","9:45","11:45","13:45","15:45","17:45","19:45","21:45","23:45"],
+            "duration": "0:10",
+            "map": "Labyrinthe Cliffs"
+        }
     ],
 
     "daycycles": [
         
         {
-          "name": "Dawn (Tyria)",
-          "waypoint": "",
-          "times_utc": ["0:25","2:25","4:25","6:25","8:25","10:25","12:25","14:25","16:45","18:45","20:45","22:45"],
-          "duration": "0:05",
-          "map": "Tyria"
+            "name": "Dawn (Tyria)",
+            "waypoint": "",
+            "times_utc": ["0:25","2:25","4:25","6:25","8:25","10:25","12:25","14:25","16:45","18:45","20:45","22:45"],
+            "duration": "0:05",
+            "map": "Tyria"
         },
         {
-          "name": "Dawn (Cantha)",
-          "waypoint": "",
-          "times_utc": ["0:35","2:35","4:35","6:35","8:35","10:35","12:35","14:35","16:35","18:35","20:35","22:35"],
-          "duration": "0:05",
-          "map": "tyria"
+            "name": "Dawn (Cantha)",
+            "waypoint": "",
+            "times_utc": ["0:35","2:35","4:35","6:35","8:35","10:35","12:35","14:35","16:35","18:35","20:35","22:35"],
+            "duration": "0:05",
+            "map": "tyria"
         },
         
         {
-          "name": "Day (Tyria)",
-          "waypoint": "",
-          "times_utc": ["0:30","2:30","4:30","6:30","8:30","10:30","12:30","14:30","16:30","18:30","20:30","22:30"],
-          "duration": "1:10",
-          "map": "Tyria"
+            "name": "Day (Tyria)",
+            "waypoint": "",
+            "times_utc": ["0:30","2:30","4:30","6:30","8:30","10:30","12:30","14:30","16:30","18:30","20:30","22:30"],
+            "duration": "1:10",
+            "map": "Tyria"
         },        
         {
-          "name": "Day (Cantha)",
-          "waypoint": "",
-          "times_utc": ["0:40","2:40","4:40","6:40","8:40","10:40","12:40","14:40","16:40","18:40","20:40","22:40"],
-          "duration": "0:55",
-          "map": "Cantha"
+            "name": "Day (Cantha)",
+            "waypoint": "",
+            "times_utc": ["0:40","2:40","4:40","6:40","8:40","10:40","12:40","14:40","16:40","18:40","20:40","22:40"],
+            "duration": "0:55",
+            "map": "Cantha"
         },        
         {
-          "name": "Dusk (Tyria)",
-          "waypoint": "",
-          "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
-          "duration": "0:05",
-          "map": "Tyria"
+            "name": "Dusk (Tyria)",
+            "waypoint": "",
+            "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
+            "duration": "0:05",
+            "map": "Tyria"
         },        
         {
-          "name": "Dusk (Cantha)",
-          "waypoint": "",
-          "times_utc": ["1:35","3:35","5:35","7:35","9:35","11:35","13:35","15:35","17:35","19:35","21:35","23:45"],
-          "duration": "0:05",
-          "map": "Cantha"
+            "name": "Dusk (Cantha)",
+            "waypoint": "",
+            "times_utc": ["1:35","3:35","5:35","7:35","9:35","11:35","13:35","15:35","17:35","19:35","21:35","23:45"],
+            "duration": "0:05",
+            "map": "Cantha"
         },        
         {
-          "name": "Night (Tyria)",
-          "waypoint": "",
-          "times_utc": ["1:45","3:45","5:45","7:45","9:45","11:45","13:45","15:45","17:45","19:45","21:45","23:45"],
-          "duration": "0:40",
-          "map": "Tyria"
+            "name": "Night (Tyria)",
+            "waypoint": "",
+            "times_utc": ["1:45","3:45","5:45","7:45","9:45","11:45","13:45","15:45","17:45","19:45","21:45","23:45"],
+            "duration": "0:40",
+            "map": "Tyria"
         },        
         {
-          "name": "Night (Cantha)",
-          "waypoint": "",
-          "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
-          "duration": "0:55",
-          "map": "Cantha"
+            "name": "Night (Cantha)",
+            "waypoint": "",
+            "times_utc": ["1:40","3:40","5:40","7:40","9:40","11:40","13:40","15:40","17:40","19:40","21:40","23:40"],
+            "duration": "0:55",
+            "map": "Cantha"
         }       
     ]
   }
